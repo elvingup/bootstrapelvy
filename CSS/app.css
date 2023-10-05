@@ -1,0 +1,15 @@
+.navegacao{
+    height: 60px;
+}
+.banner{
+    height: 300px;
+}
+.titulo{
+    height: 55px;
+}
+.item{
+    height: 155px;
+}
+.itemGrande .row{
+    padding: 111px 0;
+}
