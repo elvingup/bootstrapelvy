@@ -1,0 +1,11 @@
+fazer a webpage do index com 
+    navbar 
+    banner com as secoes e os numeros
+    quadro de noticias
+    footer 
+
+fazer uma pagina noticias.html 
+
+fazer um formulario de curriculo 
+
+https://bnuonline.com.br/inicio 
